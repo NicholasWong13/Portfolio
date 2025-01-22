@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Nicholas Wong Kai Xin </span>
             from <span className="purple"> Penang, Malaysia.</span>
             <br />
-            I am currently Final Year Student at INTI International College Penang.
+            I am currently employed as a Product Test Engineer at Inari Technology Sdn Bhd.
             <br />
-            I studied Bsc (Hons) in Computing in collaboration with Coventry University, UK.
+            I hold a BSc (Hons) in Computing from Coventry University, UK.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
