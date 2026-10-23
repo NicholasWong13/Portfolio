@@ -15,8 +15,7 @@ function AboutCard() {
             <br />
             I hold a BSc (Hons) in Computing from Coventry University, UK.
             <br />
-            <br />
-            I also hold an MSc in Information Technology from INTI University.
+            I also hold an MSc in Information Technology from INTI International University.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
