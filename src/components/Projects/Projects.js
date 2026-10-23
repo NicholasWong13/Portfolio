@@ -8,9 +8,6 @@ import StudioC from "../../Assets/Projects/StudioC.png";
 import BudgetBuddy from "../../Assets/Projects/BudgetBuddy.png";
 import Food2Go from "../../Assets/Projects/Food2Go.png";
 import NickCarWash from "../../Assets/Projects/NickCarWash.png";
-import {
-  SiFlutter
-} from "react-icons/si";
 
 function Projects() {
   return (
